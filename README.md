@@ -1,3 +1,6 @@
+This project contains my solution for the Sandwich Club project part of the Android Developer Nanodegree Program.
+It is based on the Sandwich Club starter code from Udacity.
+
 # Sandwich Club Project Starter Code
 
 ## Project Overview
